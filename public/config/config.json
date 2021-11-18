@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x409d96ba9f075de200e174d26a9daa65ada68774",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x409d96ba9f075de200e174d26a9daa65ada68774",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The Tech Dogs",
+  "SYMBOL": "TTD",
+"MAX_SUPPLY": 3333,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/thetechdogs",
+  "SHOW_BACKGROUND": true
+}
