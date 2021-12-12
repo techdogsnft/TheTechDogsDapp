@@ -1,8 +1,8 @@
 {
-  "CONTRACT_ADDRESS": "TBA",
-  "SCAN_LINK": "TBA",
+  "CONTRACT_ADDRESS": "https://etherscan.io",
+  "SCAN_LINK": "https://etherscan.io",
   "NETWORK": {
-    "NAME": "Ethereum Main Network",
+    "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
     "ID": 1
   },
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "TBA",
+  "MARKETPLACE_LINK": "https://opensea.io",
   "SHOW_BACKGROUND": true
 }
