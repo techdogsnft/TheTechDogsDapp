@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "TBA",
-  "SCAN_LINK": "TBA",
+  "CONTRACT_ADDRESS": "https://rinkeby.etherscan.io/token/0x409d96ba9f075de200e174d26a9daa65ada68774",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x409d96ba9f075de200e174d26a9daa65ada68774",
   "NETWORK": {
-    "NAME": "Ethereum Main Network",
+    "NAME": "Rinkeby Test Network",
     "SYMBOL": "ETH",
     "ID": 4
   },
   "NFT_NAME": "The Tech Dogs",
   "SYMBOL": "The Tech Dogs",
-"MAX_SUPPLY": 10000,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+"MAX_SUPPLY": 3333,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "TBA",
+  "MARKETPLACE_LINK": "https://opensea.io",
   "SHOW_BACKGROUND": true
 }
