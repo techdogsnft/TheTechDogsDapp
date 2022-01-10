@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "https://rinkeby.etherscan.io/token/0x409d96ba9f075de200e174d26a9daa65ada68774",
   "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x409d96ba9f075de200e174d26a9daa65ada68774",
   "NETWORK": {
-    "NAME": "Ethereum Mainnet",
+    "NAME": "Rinkeby Test Network",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
   "NFT_NAME": "The Tech Dogs",
   "SYMBOL": "The Tech Dogs",
